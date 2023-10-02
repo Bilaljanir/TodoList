@@ -1,4 +1,4 @@
-false|Bilal
+true|Bilal
 false|janir
-false|dev
-false|jobtrek
+true|informaticien
+true|Jobtrek
